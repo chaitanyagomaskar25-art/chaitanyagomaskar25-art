@@ -33,8 +33,7 @@
 
 ### 🤝 Connect With Me
 
-- **GitHub:** [Explore my repositories](https://github.com/chaitanyagomaskar25-art)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chaitanya-gomaskar-347189361/?isSelfProfile=true)
 
 ---
 
